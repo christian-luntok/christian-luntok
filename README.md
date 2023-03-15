@@ -8,5 +8,3 @@
 [![](https://visitcount.itsvg.in/api?id=christian-luntok&icon=9&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
