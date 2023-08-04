@@ -1,7 +1,7 @@
 Hello - Hi there! 👋
 
 
-I'm Christian Luntok — an Australian based frontend developer. Currently leading Frontend development at [Jala Design](https://www.jaladesign.com.au/) and building apps and stuff at [Avenue Labs](https://avenuelabs.co/).
+I'm Christian Luntok — an Australian based frontend developer. Currently leading frontend development at [Jala Design](https://www.jaladesign.com.au/) and building apps and stuff at [Avenue Labs](https://avenuelabs.co/).
 
 Follow me on:
 
