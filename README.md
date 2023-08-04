@@ -5,8 +5,8 @@ I'm Christian Luntok — an Australian based frontend developer. Currently leadi
 
 Follow me on:
 
-- LinkedIn → [get in touch](https://www.linkedin.com/in/christian-luntok/)
-- Twitter → [get in touch](https://twitter.com/cluntok)
+- LinkedIn → [Go here!](https://www.linkedin.com/in/christian-luntok/)
+- Twitter/X → [Go here!](https://twitter.com/cluntok)
 - Want to collab? → [Available for collaboration](https://cjluntok.com/)
 
 ---
