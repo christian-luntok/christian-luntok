@@ -7,6 +7,7 @@ Follow me on:
 
 - LinkedIn → [get in touch](https://www.linkedin.com/in/christian-luntok/)
 - Twitter → [get in touch](https://twitter.com/cluntok)
+- Want to collab? → [Available for collaboration](https://cjluntok.com/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=christian-luntok&icon=9&color=12)](https://visitcount.itsvg.in)
